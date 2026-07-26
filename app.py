@@ -1,6 +1,9 @@
 """
-Telco Churn Predictor - Streamlit App
+
+Telco Customer Churn Predictor - Streamlit App
+
 Run: streamlit run app.py
+
 """
 
 import joblib
