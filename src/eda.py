@@ -1,9 +1,8 @@
 """
-Telco Customer Churn - Full A-Z EDA
-Run: python src/eda.py
-Requires: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
-Saves all plots to notebooks/figures/eda/
+Telco Customer Churn - Full Exploratory Data Analysis (EDA) Script
+
 """
+
 
 import os
 import pandas as pd
