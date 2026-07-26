@@ -25,7 +25,7 @@ def save(fig_name):
 # ------------------------------------------------------------------
 # A. LOAD
 # ------------------------------------------------------------------
-df = pd.read_csv("/home/saad-s-linux/Documents/Telco Customer Churn Prediction/data/WA_Fn-UseC_-Telco-Customer-Churn.csv")
+df = pd.read_csv("/home/saad-s-linux/Documents/Telco Customer Churn Prediction/data/Raw/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 print("A. SHAPE:", df.shape)
 
 # ------------------------------------------------------------------
