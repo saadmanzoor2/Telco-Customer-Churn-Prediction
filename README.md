@@ -45,5 +45,8 @@ Python, pandas, scikit-learn, XGBoost, imbalanced-learn, Streamlit
 ## Author
 Saad Manzoor
 
+## LinkedIN
+linkedin.com/in/saad-manzoor-b81605347
+
 ## License
 MIT
